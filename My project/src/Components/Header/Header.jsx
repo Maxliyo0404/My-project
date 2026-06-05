@@ -5,7 +5,13 @@ import React from 'react'
 function Header() {
     const [t, i18n] = useTranslation();
   return (
-    <div>Header</div>
+    <div className="header">
+        <div className="container">
+            <div className="header-wrapper">
+                
+            </div>
+        </div>
+    </div>
   )
 }
 
