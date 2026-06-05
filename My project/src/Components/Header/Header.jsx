@@ -8,11 +8,11 @@ function Header() {
     <div className="header">
         <div className="container">
             <div className="header-wrapper">
-
+                
             </div>
         </div>
     </div>
   )
 }
 
-export default Heade
+export default Header
