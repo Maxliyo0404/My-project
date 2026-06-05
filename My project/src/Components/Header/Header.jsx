@@ -4,6 +4,7 @@ import React from 'react'
 
 function Header() {
     const [t, i18n] = useTranslation();
+    const
   return (
     <div className="header">
         <div className="container">
